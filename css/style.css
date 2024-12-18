@@ -820,34 +820,35 @@ main {
   }
   .light {
     width: 100%;
-    height: 600px;
+    height: 800px;
   }
   .main {
     height: 100vh;
+    padding: 0 15px;
   }
   .main-left {
-    width: 130%;
+    width: 150%;
     height: 100vh;
     transition: 3s all;
   }
   .main-left-off {
-    left: -140%;
+    left: -200%;
   }
   .main-right {
-    width: 130%;
+    width: 150%;
     height: 100vh;
     transition: 3s all;
   }
   .main-right-off {
-    right: -140%;
+    right: -200%;
   }
   .main-title {
     font-size: 45px;
     margin-top: 5px;
   }
   .main-hero {
-    width: 310px;
-    height: 400px;
+    width: auto;
+    height: 560px;
   }
   .about-block {
     width: 100%;
@@ -908,20 +909,20 @@ main {
     padding: 0 80px;
   }
   .footer-text {
-    width: 160px;
-    font-size: 12px;
+    width: 100%;
+    font-size: 14px;
   }
   .footer-geo {
     font-size: 14px;
   }
+  .footer-contacts {
+    height: 300px;
+    padding: 15px;
+  }
   .footer-contacts::before {
-    width: 135px;
-    height: 112px;
-    left: 5px;
+    display: none;
   }
   .footer-contacts::after {
-    width: 135px;
-    height: 112px;
-    right: 5px;
+    display: none;
   }
 }/*# sourceMappingURL=style.css.map */
