@@ -823,7 +823,7 @@ main {
     height: 600px;
   }
   .main {
-    height: 520px;
+    height: 100vh;
   }
   .main-left {
     width: 130%;
@@ -846,6 +846,7 @@ main {
     margin-top: 5px;
   }
   .main-hero {
+    width: 310px;
     height: 400px;
   }
   .about-block {
