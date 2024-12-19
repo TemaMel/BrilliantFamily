@@ -120,6 +120,7 @@ main {
 }
 
 .call {
+  display: none;
   width: 170px;
   height: 40px;
   border-radius: 30px;
