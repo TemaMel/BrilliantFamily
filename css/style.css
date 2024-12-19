@@ -849,7 +849,7 @@ main {
     margin-top: 5px;
   }
   .main-hero {
-    width: 100%;
+    width: 95%;
     height: 560px;
   }
   .about-block {
@@ -907,7 +907,7 @@ main {
   .reviews .slide {
     margin: 0 15px;
     width: 440px;
-    height: 450px;
+    height: 455px;
     padding: 0 80px;
   }
   .footer-text {
