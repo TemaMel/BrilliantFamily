@@ -849,8 +849,8 @@ main {
     margin-top: 5px;
   }
   .main-hero {
-    width: 375px;
-    height: 560px;
+    width: 350px;
+    height: 453px;
   }
   .about-block {
     width: 100%;
@@ -891,6 +891,7 @@ main {
   .advantages-descr {
     width: 100%;
     margin: 5px 0 0 5px;
+    row-gap: 10px;
   }
   .advantages p {
     font-size: 13px;
@@ -903,7 +904,7 @@ main {
     overflow: hidden;
   }
   .reviews .slider {
-    width: 1300%;
+    width: 1150%;
   }
   .reviews .slide {
     margin: 0 15px;
