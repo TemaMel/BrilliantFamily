@@ -846,10 +846,10 @@ main {
   }
   .main-title {
     font-size: 45px;
-    margin-top: 35px;
+    margin-top: 55px;
   }
   .main-hero {
-    margin-top: 30px;
+    margin-top: 40px;
     width: 355px;
     height: 453px;
   }
@@ -891,7 +891,7 @@ main {
   }
   .advantages-descr {
     width: 100%;
-    margin: 5px 0 0 5px;
+    margin: 5px 0 0 10px;
     row-gap: 10px;
   }
   .advantages p {
@@ -905,7 +905,7 @@ main {
     overflow: hidden;
   }
   .reviews .slider {
-    width: 1200%;
+    width: 1250%;
   }
   .reviews .slide {
     margin: 0 15px;
