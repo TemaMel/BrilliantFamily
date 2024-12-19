@@ -849,7 +849,7 @@ main {
     margin-top: 5px;
   }
   .main-hero {
-    width: 95%;
+    width: 85%;
     height: 560px;
   }
   .about-block {
@@ -886,6 +886,7 @@ main {
   .advantages-item {
     align-items: center;
     width: 100%;
+    margin: 0 5px;
   }
   .advantages-descr {
     width: 100%;
@@ -902,12 +903,12 @@ main {
     overflow: hidden;
   }
   .reviews .slider {
-    width: 1250%;
+    width: 1300%;
   }
   .reviews .slide {
     margin: 0 15px;
     width: 440px;
-    height: 455px;
+    height: 460px;
     padding: 0 80px;
   }
   .footer-text {
