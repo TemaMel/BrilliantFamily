@@ -56,3 +56,21 @@ document.getElementById('closeModal').addEventListener('click', function() {
     document.querySelector('.modal').classList.remove('modal-active');
     document.querySelector('.call').classList.remove('call-off');
 });
+
+
+
+
+//Появление кнопки связаться
+window.addEventListener('scroll', function() {
+    const scrollPosition = window.scrollY;
+    const button = document.getElementById('callModal');
+
+    console.log(scrollPosition);
+    
+    // Условие для отображения кнопки после 200 пикселей скролла
+    if (scrollPosition > 900) {
+        button.style.display = 'block';
+    } else {
+        button.style.display = 'none';
+    }
+});

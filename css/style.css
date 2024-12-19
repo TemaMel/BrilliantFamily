@@ -846,7 +846,7 @@ main {
   }
   .main-title {
     font-size: 45px;
-    margin-top: 55px;
+    margin-top: 35px;
   }
   .main-hero {
     margin-top: 40px;
@@ -905,7 +905,7 @@ main {
     overflow: hidden;
   }
   .reviews .slider {
-    width: 1250%;
+    width: 1210%;
   }
   .reviews .slide {
     margin: 0 15px;
