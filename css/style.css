@@ -846,10 +846,11 @@ main {
   }
   .main-title {
     font-size: 45px;
-    margin-top: 25px;
+    margin-top: 35px;
   }
   .main-hero {
-    width: 350px;
+    margin-top: 30px;
+    width: 355px;
     height: 453px;
   }
   .about-block {
@@ -904,7 +905,7 @@ main {
     overflow: hidden;
   }
   .reviews .slider {
-    width: 1170%;
+    width: 1200%;
   }
   .reviews .slide {
     margin: 0 15px;
